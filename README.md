@@ -1,1 +1,0 @@
-# C-program-to-Find-power-of-a-number.
